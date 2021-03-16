@@ -1,0 +1,1 @@
+Create table segmentations (id bigint primary key auto_increment,address_sap_id varchar(255) unique , adr_segment varchar(16), segment_id bigint)
